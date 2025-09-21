@@ -22,6 +22,8 @@ This project contains **two Python-based utilities** for DevOps practice:
   - Helps monitor system performance quickly.
 
 ---
+![Screenshot](4.png)
+![Screenshot](5.png)
 
 ## ⚙️ Usage
 
